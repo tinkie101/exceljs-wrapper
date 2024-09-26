@@ -6,3 +6,7 @@ import ExcelJS from "jsr:@tinkie101/exceljs-wrapper"
   const workbook = new ExcelJS.Workbook();
 ...
 ```
+
+# Publish steps
+1. `npx tsc`
+2. `jsr publish`
