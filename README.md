@@ -7,6 +7,5 @@ import ExcelJS from "jsr:@tinkie101/exceljs-wrapper"
 ...
 ```
 
-# Publish steps
-1. `npx tsc`
-2. `jsr publish`
+# Documentation
+[ExcelJS](https://github.com/exceljs/exceljs)
